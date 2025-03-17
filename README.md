@@ -3,10 +3,10 @@
 欢迎来到我的 GitHub 主页！我是一名后端开发者，专注于构建高效、响应式的 Web 应用。我对编程技术充满热情，同时也对后端开发和服务器管理有一定的了解。我在这里分享我的项目、学习笔记和一些有趣的想法。
 
 ### 🚀 我的技能
-- 前端开发: HTML, CSS, JavaScript ,Vue 3, Element UI
+- 前端开发: HTML, CSS, JavaScript, Vue 3, Element UI
 - 后端开发: Node.js, Java, SQLite，MySQL
 - 工具与环境: Git, Linux, Vite, Docker, Idea, Vs-Code
-- 其他技能: studying
+- 其他技能: UFO, KFC, NFC, NPC
 ### 🌱 我正在学习
 - Vue 3, Element UI, Pytorch
 - spring-boot框架, Java前后端
