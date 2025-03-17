@@ -1,4 +1,4 @@
-## 你好,我是NyPan👋
+## 👋你好,我是NyPan!
 
 欢迎来到我的 GitHub 主页！我是一名后端开发者，专注于构建高效、响应式的 Web 应用。我对编程技术充满热情，同时也对后端开发和服务器管理有一定的了解。我在这里分享我的项目、学习笔记和一些有趣的想法。
 
@@ -17,4 +17,4 @@ spring-boot 前后端
 如果你有任何问题或想与我合作，欢迎通过以下方式联系我：
 邮箱: 2436625778@QQ.com
 感谢你花时间访问我的 GitHub 主页！如果你喜欢我的项目或文章，欢迎给我一个 ⭐️ 或者关注我，我会继续分享更多有趣的内容。
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[20[My Skills](https://skillicons.dev/icons?i=aws,github,css,,react,vue,discord,docker,eclipse,gradle,html,instagram,java,apple,linux,mysql,phpstorm,postman,vscode,windows,flutter&perline=3)](https://skillicons.dev)
