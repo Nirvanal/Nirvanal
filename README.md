@@ -18,7 +18,9 @@
 - 邮箱: 2436625778@QQ.com
 感谢你花时间访问我的 GitHub 主页！如果你喜欢我的项目或文章，欢迎给我一个 ⭐️ 或者关注我，我会继续分享更多有趣的内容。
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Nirvanal/Nirvanal&type=Date)](https://www.star-history.com/#Nirvanal/Nirvanal&Date)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,github,css,react,vue,discord,docker,eclipse,gradle,html,instagram,java,apple,linux,mysql,phpstorm,postman,vscode,windows,gmail,flutter&perline=20)](https://skillicons.dev)
 
