@@ -18,7 +18,7 @@
 - 邮箱: 2436625778@QQ.com
 感谢你花时间访问我的 GitHub 主页！如果你喜欢我的项目或文章，欢迎给我一个 ⭐️ 或者关注我，我会继续分享更多有趣的内容。
 
-https://www.star-history.com/#Nirvanal/Nirvanal&Date
+<iframe style=“width：100%;高度：自动;最小宽度：600px;最小高度：400px;“ src=”https://www.star-history.com/embed?secret=#Nirvanal/Nirvanal&Date“ frameBorder=”0“></iframe>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,github,css,react,vue,discord,docker,eclipse,gradle,html,instagram,java,apple,linux,mysql,phpstorm,postman,vscode,windows,gmail,flutter&perline=20)](https://skillicons.dev)
 
