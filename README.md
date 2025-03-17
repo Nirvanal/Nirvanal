@@ -14,13 +14,13 @@
 ### 📝 博客与文章
 - 我偶尔会写一些技术文章，分享我的学习和经验。你可以前往我的博客或者主页
 
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
+
 如果你有任何问题或想与我合作，欢迎通过以下方式联系我：
 - 邮箱: 2436625778@QQ.com
 感谢你花时间访问我的 GitHub 主页！如果你喜欢我的项目或文章，欢迎给我一个 ⭐️ 或者关注我，我会继续分享更多有趣的内容。
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Nirvanal/Nirvanal&type=Date)](https://www.star-history.com/#Nirvanal/Nirvanal&Date)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,github,css,react,vue,discord,docker,eclipse,gradle,html,instagram,java,apple,linux,mysql,phpstorm,postman,vscode,windows,gmail,flutter&perline=20)](https://skillicons.dev)
 
