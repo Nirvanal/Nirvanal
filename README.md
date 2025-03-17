@@ -1,16 +1,20 @@
-## Hi there 👋
+## 你好,我是NyPan👋
 
-<!--
-**Nirvanal/Nirvanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！我是一名后端开发者，专注于构建高效、响应式的 Web 应用。我对编程技术充满热情，同时也对后端开发和服务器管理有一定的了解。我在这里分享我的项目、学习笔记和一些有趣的想法。
 
-Here are some ideas to get you started:
+🚀 我的技能
+前端开发: HTML, CSS, JavaScript ,Vue 3,Element UI
+后端开发: Node.js, PHP, SQLite，MySQL
+工具与环境: Git, Linux, Vite, Docker
+其他技能: studying
+🌱 我正在学习
+Vue 3
+spring-boot 前后端
+各种框架等
+📝 博客与文章
+我偶尔会写一些技术文章，分享我的学习和经验。你可以前往我的博客或者主页
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+如果你有任何问题或想与我合作，欢迎通过以下方式联系我：
+邮箱: 2436625778@QQ.com
+感谢你花时间访问我的 GitHub 主页！如果你喜欢我的项目或文章，欢迎给我一个 ⭐️ 或者关注我，我会继续分享更多有趣的内容。
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
